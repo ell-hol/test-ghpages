@@ -9,7 +9,5 @@
   "static/css/main.cabe0147.chunk.css.map": "/test-ghpages/static/css/main.cabe0147.chunk.css.map",
   "index.html": "/test-ghpages/index.html",
   "precache-manifest.4a8db73868d0b160db1f0488f58c98cf.js": "/test-ghpages/precache-manifest.4a8db73868d0b160db1f0488f58c98cf.js",
-  "service-worker.js": "/test-ghpages/service-worker.js",
-  "model.json": "/test-ghpages/web_model/model.json",
-  "/web_model/model.json": "/test-ghpages/web_model/model.json"
+  "service-worker.js": "/test-ghpages/service-worker.js"
 }
